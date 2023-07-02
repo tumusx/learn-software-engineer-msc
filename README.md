@@ -1,47 +1,49 @@
-# Repositório de Engenharia de Software
+# Software Engineering Repository
 
-Este repositório contém informações, exemplos e recursos relacionados aos tópicos abordados no livro **Engenharia de Software** de *Ian Sommerville*. O objetivo deste repositório é fornecer um espaço de estudo e discussão para estudantes e profissionais interessados em aprofundar seus conhecimentos em engenharia de software.
+This repository contains information, examples, and resources related to the topics covered in the book **Software Engineering** by *Ian Sommerville*. The objective of this repository is to provide a space for study and discussion for students and professionals interested in deepening their knowledge of software engineering.
 
-## Sobre o Livro
-![Capa do Livro Engenharia de Software](https://m.media-amazon.com/images/I/513h09R6yTL._SY344_BO1,204,203,200_QL70_ML2_.jpg)
+## About the Book
+![Cover of the Book Software Engineering](https://m.media-amazon.com/images/I/513h09R6yTL._SY344_BO1,204,203,200_QL70_ML2_.jpg)
 
-O livro **Engenharia de Software** de Ian Sommerville é uma referência amplamente utilizada na área. Ele aborda conceitos, metodologias e práticas essenciais da engenharia de software, fornecendo uma base sólida para o desenvolvimento de software de qualidade.
+Ian Sommerville's book **Software Engineering** is widely recognized as a reference in the field. It covers essential concepts, methodologies, and practices of software engineering, providing a solid foundation for the development of high-quality software.
 
-## Capítulos
+## Chapters
 
-1. Introdução à Engenharia de Software
-   - Conceitos básicos de engenharia de software
-   - O processo de desenvolvimento de software
-   - Modelos de ciclo de vida de software
+1. Introduction to Software Engineering
+   - Basic concepts of software engineering
+   - The software development process
+   - Software lifecycle models
    
-2. Requisitos de Software
-   - Engenharia de requisitos
-   - Elicitação de requisitos
-   - Análise e negociação de requisitos
+2. Software Requirements
+   - Requirements engineering
+   - Requirements elicitation
+   - Requirements analysis and negotiation
    
-3. Design de Software
-   - Princípios de design de software
-   - Arquitetura de software
-   - Design orientado a objetos
+3. Software Design
+   - Principles of software design
+   - Software architecture
+   - Object-oriented design
    
-4. Implementação de Software
-   - Programação e linguagens de programação
-   - Teste de software
-   - Controle de qualidade de software
+4. Software Implementation
+   - Programming and programming languages
+   - Software testing
+   - Software quality control
    
-5. Manutenção de Software
-   - Evolução e refatoração de software
-   - Gerenciamento de configuração de software
-   - Gerenciamento de mudanças
+5. Software Maintenance
+   - Software evolution and refactoring
+   - Software configuration management
+   - Change management
    
-6. Gerenciamento de Projetos de Software
-   - Planejamento e estimativas de projeto
-   - Acompanhamento e controle de projeto
-   - Gerenciamento de riscos
+6. Software Project Management
+   - Project planning and estimation
+   - Project monitoring and control
+   - Risk management
    
-7. Práticas Emergentes em Engenharia de Software
-   - Métodos ágeis de desenvolvimento de software
-   - Desenvolvimento orientado a testes
-   - DevOps e integração contínua
+7. Emerging Practices in Software Engineering
+   - Agile software development methods
+   - Test-driven development
+   - DevOps and continuous integration
 
-Este repositório será atualizado regularmente com novos materiais e recursos relacionados aos capítulos do livro.
+This repository will be regularly updated with new materials and resources related to the book's chapters.
+
+**Note:** The book cover image is used for illustrative purposes only.
